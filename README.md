@@ -1,0 +1,2 @@
+# Predict_FingerFlexionAngle_from_ECoG
+This collaborative project was part of a graduate level course on Brain Computer Interfaces (BCIs) at UPenn. The project involved using provided ECoG data along with data from detected finger angles of a glove. The objective was to create an algorithm to try detecting/predicting the finger angles of a patient based on the detected ECoG activity. Such a project can be expanded and further advanced into a more complex BCI prosthetic glove that assists disabled patients in recovering control over their hand and finger movements.
