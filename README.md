@@ -1,5 +1,7 @@
 # Predict_FingerFlexionAngle_from_ECoG
-This collaborative project was part of a graduate level course on Brain Computer Interfaces (BCIs) at UPenn. The project involved using provided ECoG data along with data from detected finger angles of a glove. The objective was to create (in a set time period) an algorithm to try detecting/predicting the finger angles of a patient based on the detected ECoG activity. Such a project can be expanded and further advanced into a more complex BCI prosthetic glove that assists disabled patients in recovering control over their hand and finger movements. This was my first big project exploring the practice of data science and machine learning concepts to biomedical applications. NOTE: all code for this project was performed in Python. 
+This collaborative project was part of a graduate level course on Brain Computer Interfaces (BCIs) at UPenn. The project involved using provided ECoG data along with data from detected finger angles of a glove. The objective was to create (in a set time period) an algorithm to try detecting/predicting the finger angles of a patient based on the detected ECoG activity. Such a project can be expanded and further advanced into a more complex BCI prosthetic glove that assists disabled patients in recovering control over their hand and finger movements. This was my first big project exploring the practice of data science and machine learning concepts to biomedical applications. 
+
+NOTE: all code for this project was performed in Python. 
 
 
 ## SUMMARY:
